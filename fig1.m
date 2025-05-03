@@ -6,6 +6,7 @@ algam = alfa_gamma;
 gam = gamma;
 alfa = alpha;
 
+%Lowest frequencies have to be greater than 0.05 
 prompt = 'Lowest frequency - gamma under alfa?';
 f1 = input(prompt);
 prompt = 'Highest frequency - gamma under alfa?';
