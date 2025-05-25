@@ -1,7 +1,7 @@
 > library(TSA)
 > setwd("c://temp//")
 > options(digits=14)
-> dat1 <- read.table("alfa-ag105(2).txt.txt",header=T)
+> dat1 <- read.table("alfa-ag105(2).txt",header=T)
 > attach(dat1)
 > dat2 <- read.table("alfa-ag105(2)vt.txt",header=T)
 > attach(dat2)
